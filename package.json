@@ -1,0 +1,10 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@oasisprotocol/sapphire-hardhat": "^2.19.4",
+    "hardhat": "^2.22.13",
+    "hardhat-switch-network": "^1.1.1",
+    "sgn-v2-contracts": "^0.2.0"
+  }
+}
